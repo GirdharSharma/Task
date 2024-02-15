@@ -1,0 +1,63 @@
+* {
+  margin: 0px;
+  padding: 0px;
+}
+/* Home Section CSS */
+.big-container {
+  height: 580px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-end;
+}
+.container {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  height: 100%;
+  width: 375px;
+  justify-content: flex-end;
+  margin-bottom: 50px;
+}
+.head {
+  color: #1d2226;
+  font-size: 28px;
+  font-weight: regular;
+  margin: 0px;
+}
+.para {
+  margin-top: 10px;
+  margin-bottom: 12px;
+  color: #919191;
+  width: 70%;
+  font-size: 19px;
+}
+.upper {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+.create-btn {
+  height: 40px;
+  width: 85%;
+  background: #6c25ff;
+  font-size: 15px;
+  color: #ffffff;
+  border: 0px;
+  border-radius: 6px;
+  margin-bottom: 8px;
+  font-weight: 600;
+  cursor: pointer;
+}
+.login-btn {
+  cursor: pointer;
+  height: 40px;
+  width: 85%;
+  background-color: #db7fb37b;
+  font-size: 15px;
+  color: #1d2226;
+  border: 0px;
+  border-radius: 6px;
+  font-weight: 600;
+}
+/* Home Section CSS complete*/

@@ -1,0 +1,21 @@
+.input-group {
+  position: relative;
+}
+.input {
+  width: 100%;
+  margin-bottom: 17px;
+  padding: 10px;
+  height: 46px;
+  border-radius: 7px;
+  box-sizing: border-box;
+  outline: none;
+  border: 2px solid #cbcbcb;
+}
+.placeholder {
+  color: rgb(153, 34, 153);
+  background-color: white;
+  outline: none;
+  position: absolute;
+  top: -8px;
+  left: 8px;
+}
